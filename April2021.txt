@@ -1,0 +1,28 @@
+40000.0
+18560.0
+Food Transportation Data Utility
+15000.0 10000.0 10000.0 5000.0
+7760.0 7200.0 1500.0 2100.0
+Data 500 Airtel binge
+Data 500 Airtel Binge to complete 1wk 6gb
+Transportation 1200 Bolt trip to retrieve siwes docs
+Transportation 1600 Bolt trip back home
+Utility 1000 Rexona body spray
+Food 300 3 bottles of water
+Food 1400 Bread, lychee chivita, 2 gala
+Utility 600 Kitchen towel, tissues
+Food 800 8 bottles of water
+Transportation 1600 bolt trip to jabi park
+Transportation 2500 sienna to Minna
+Transportation 300 bike + keke to futminna
+Food 1600 my food(800) + benevolence(800)
+Utility 500 cufflings
+Food 500 Jollof from Acadel
+Food 500 Bags of water
+Food 870 Jollof + coleslaw + plantain from Acadel
+Food 200 Meruwa noodles
+Food 350 jff bread
+Data 500 Airtel Binge
+Food 590 Assadel jollof, moimoi, beef, 7up
+Food 500 Meruwa 
+Food 150 lunch snacks

@@ -103,7 +103,7 @@ class Budget:
 
 
 
-base_dir = "C:/Users/PC AI/Desktop/budgeter/"
+base_dir = "C:/Users/PC AI/Desktop/budgeter/"  # TO BE CHANGED AS NEEDED!!!!
 
 
 print("Keep track of your spending here!!")
